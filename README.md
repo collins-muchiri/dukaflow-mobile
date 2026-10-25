@@ -8,7 +8,7 @@
 
 ![Flutter](https://img.shields.io/badge/Flutter-3.22-02569B?logo=flutter)
 ![Dart](https://img.shields.io/badge/Dart-3.4-0175C2?logo=dart)
-![CI](https://github.com/bucky-ops/dukaflow-mobile/actions/workflows/android.yml/badge.svg)
+![CI](https://github.com/collins-muchiri/dukaflow-mobile/actions/workflows/android.yml/badge.svg)
 
 ## Live Wireframe Preview
 
@@ -114,7 +114,7 @@ Firebase config is **intentionally not committed** (no secrets in git). To enabl
 ## Getting Started (local dev)
 
 ```bash
-git clone https://github.com/bucky-ops/dukaflow-mobile.git
+git clone https://github.com/collins-muchiri/dukaflow-mobile.git
 cd dukaflow-mobile
 flutter pub get
 flutter run                      # or: flutter run --dart-define=API_URL=https://api.dukaflow.site
